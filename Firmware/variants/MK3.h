@@ -61,7 +61,7 @@
 #define X_MIN_POS 0
 #define Y_MAX_POS 212.5
 #define Y_MIN_POS -4 //orig -4
-#define Z_MAX_POS 160
+#define Z_MAX_POS 172
 #define Z_MIN_POS 0
 
 // Canceled home position

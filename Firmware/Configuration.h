@@ -286,7 +286,7 @@ your extruder heater takes 2 minutes to hit the target on heating.
 #define Y_MAX_LENGTH (Y_MAX_POS - Y_MIN_POS)
 #define Z_MAX_LENGTH (Z_MAX_POS - Z_MIN_POS)
 
-#define Z_HEIGHT_HIDE_LIVE_ADJUST_MENU 2.0f
+#define Z_HEIGHT_HIDE_LIVE_ADJUST_MENU 500.f
 
 #define HOME_Z_SEARCH_THRESHOLD 0.15f             // Threshold of the Z height in calibration
 
